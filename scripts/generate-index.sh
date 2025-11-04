@@ -26,7 +26,6 @@ cat > "$out" <<'HTML'
 </head>
 <body>
 <h1>Redirects</h1>
-<p>Pick a folder to open:</p>
 <ul>
 HTML
 
