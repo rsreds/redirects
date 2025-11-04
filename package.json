@@ -1,0 +1,8 @@
+{
+  "name": "redirects",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "generate-index": "bash scripts/generate-index.sh"
+  }
+}
